@@ -6,11 +6,10 @@ function init() {
   // Write your JavaScript code inside the init() function
 if (index === code.length) {
   alert("Hurray!");
-  
+
   index = 0;
 }
 } else {
   index = 0;
 }
 }
-
