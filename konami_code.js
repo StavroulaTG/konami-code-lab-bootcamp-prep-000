@@ -17,5 +17,5 @@ if (index === code.length) {
 } else {
   index = 0;
 }
-}, false);
+}, false;
 }
